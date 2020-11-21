@@ -1,0 +1,15 @@
+{
+  "name": "web2-nodejs",
+  "version": "1.0.0",
+  "description": "2020.8.15부터 생활코딩 web2-nodejs 수업을 진행하기 위한 프로젝트입니다.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sanitize-html": "^1.27.3"
+  }
+}
